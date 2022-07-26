@@ -1,0 +1,30 @@
+body {
+    background-color: orange;
+}
+
+* {
+    color: white;
+    
+}
+
+
+.currTable {
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+table {
+   margin: auto;
+   size: 2em;
+   text-align: center;
+}
+
+.footer {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer p {
+    margin: 0;
+}
